@@ -1,13 +1,10 @@
 {
-    "name": "clegginabox/pdf-merger",
+    "name": "juusopiikkila/pdf-merger",
     "description": "PDF File Merger for PHP5",
-    "require": {
-        "itbz/fpdi": "dev-master"
-    },
     "authors": [
         {
-            "name": "Paul Clegg",
-            "email": "paul@clegginabox.co.uk"
+            "name": "Juuso Piikkilä",
+            "email": "juuso.piikkila@gmail.com"
         }
     ],
     "autoload": {
